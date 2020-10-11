@@ -1,5 +1,5 @@
 (function() {
-"use strict";
+"use strict"; 
 
 // Your code goes here.
 
